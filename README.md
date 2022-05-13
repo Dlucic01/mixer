@@ -1,4 +1,3 @@
 # mixer
-place to share your music:
-work in progess
+Place to share your music
 # mixer
