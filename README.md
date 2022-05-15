@@ -20,8 +20,8 @@ index.php -> handles routes
 Other version: https://github.com/Corazone777/mixe_r.git
 # mixer
 
-![Alt text](/Screenshots/screenshot_login.jpg "Login Page")
-![Alt text](/Screenshots/screenshot_register.jpg "Register Page")
-![Alt text](/Screenshots/screenshot_home.jpg "Homepage")
-![Alt text](/Screenshots/screenshot_active.jpg "Active Homepage ")
-![Alt text](/Screenshots/screenshot_upload.jpg "Upload Page")
+![Alt text](/Screenshots/screenshot_login.png "Login Page")
+![Alt text](/Screenshots/screenshot_register.png "Register Page")
+![Alt text](/Screenshots/screenshot_home.png "Homepage")
+![Alt text](/Screenshots/screenshot_active.png "Active Homepage ")
+![Alt text](/Screenshots/screenshot_upload.png "Upload Page")
